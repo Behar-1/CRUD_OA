@@ -12,3 +12,17 @@ C:\Users\PC\Desktop\Starlabs\Onion Architecture CRUD\CRUD_OA\Onion Architecture\
 C:\Users\PC\Desktop\Starlabs\Onion Architecture CRUD\CRUD_OA\Onion Architecture\OA.DATA\obj\Debug\net6.0\OA.DATA.pdb
 C:\Users\PC\Desktop\Starlabs\Onion Architecture CRUD\CRUD_OA\Onion Architecture\OA.DATA\obj\Debug\net6.0\OA.DATA.genruntimeconfig.cache
 C:\Users\PC\Desktop\Starlabs\Onion Architecture CRUD\CRUD_OA\Onion Architecture\OA.DATA\obj\Debug\net6.0\ref\OA.DATA.dll
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.DATA\bin\Debug\net6.0\OA.DATA.deps.json
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.DATA\bin\Debug\net6.0\OA.DATA.runtimeconfig.json
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.DATA\bin\Debug\net6.0\OA.DATA.dll
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.DATA\bin\Debug\net6.0\OA.DATA.pdb
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.DATA\obj\Debug\net6.0\OA.DATA.csproj.AssemblyReference.cache
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.DATA\obj\Debug\net6.0\OA.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.DATA\obj\Debug\net6.0\OA.DATA.AssemblyInfoInputs.cache
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.DATA\obj\Debug\net6.0\OA.DATA.AssemblyInfo.cs
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.DATA\obj\Debug\net6.0\OA.DATA.csproj.CoreCompileInputs.cache
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.DATA\obj\Debug\net6.0\OA.DATA.dll
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.DATA\obj\Debug\net6.0\refint\OA.DATA.dll
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.DATA\obj\Debug\net6.0\OA.DATA.pdb
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.DATA\obj\Debug\net6.0\OA.DATA.genruntimeconfig.cache
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.DATA\obj\Debug\net6.0\ref\OA.DATA.dll

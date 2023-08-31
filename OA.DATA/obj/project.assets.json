@@ -2007,25 +2007,26 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Microsoft.EntityFrameworkCore >= 6.0.11",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.11",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.11",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.11"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {}
+    "C:\\Users\\bd483\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.DATA\\OA.DATA.csproj",
+      "projectUniqueName": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.DATA\\OA.DATA.csproj",
       "projectName": "OA.DATA",
-      "projectPath": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.DATA\\OA.DATA.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.DATA\\obj\\",
+      "projectPath": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.DATA\\OA.DATA.csproj",
+      "packagesPath": "C:\\Users\\bd483\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.DATA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bd483\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2051,6 +2052,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[6.0.11, )"
+          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
@@ -2084,7 +2089,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

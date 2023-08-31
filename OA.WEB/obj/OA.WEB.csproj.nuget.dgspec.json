@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.WEB\\OA.WEB.csproj": {}
+    "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.WEB\\OA.WEB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.DATA\\OA.DATA.csproj": {
+    "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.DATA\\OA.DATA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.DATA\\OA.DATA.csproj",
+        "projectUniqueName": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.DATA\\OA.DATA.csproj",
         "projectName": "OA.DATA",
-        "projectPath": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.DATA\\OA.DATA.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.DATA\\obj\\",
+        "projectPath": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.DATA\\OA.DATA.csproj",
+        "packagesPath": "C:\\Users\\bd483\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.DATA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bd483\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -73,21 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.REPO\\OA.REPO.csproj": {
+    "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.REPO\\OA.REPO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.REPO\\OA.REPO.csproj",
+        "projectUniqueName": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.REPO\\OA.REPO.csproj",
         "projectName": "OA.REPO",
-        "projectPath": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.REPO\\OA.REPO.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.REPO\\obj\\",
+        "projectPath": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.REPO\\OA.REPO.csproj",
+        "packagesPath": "C:\\Users\\bd483\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.REPO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bd483\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -101,138 +105,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.DATA\\OA.DATA.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.DATA\\OA.DATA.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.11, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.SERVICE\\OA.SERVICE.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.SERVICE\\OA.SERVICE.csproj",
-        "projectName": "OA.SERVICE",
-        "projectPath": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.SERVICE\\OA.SERVICE.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.SERVICE\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.DATA\\OA.DATA.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.DATA\\OA.DATA.csproj"
-              },
-              "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.REPO\\OA.REPO.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.REPO\\OA.REPO.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.WEB\\OA.WEB.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.WEB\\OA.WEB.csproj",
-        "projectName": "OA.WEB",
-        "projectPath": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.WEB\\OA.WEB.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.WEB\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.REPO\\OA.REPO.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.REPO\\OA.REPO.csproj"
-              },
-              "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.SERVICE\\OA.SERVICE.csproj": {
-                "projectPath": "C:\\Users\\PC\\Desktop\\Starlabs\\Onion Architecture CRUD\\CRUD_OA\\Onion Architecture\\OA.SERVICE\\OA.SERVICE.csproj"
+              "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.DATA\\OA.DATA.csproj": {
+                "projectPath": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.DATA\\OA.DATA.csproj"
               }
             }
           }
@@ -252,6 +126,184 @@
               "version": "[6.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.SERVICE\\OA.SERVICE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.SERVICE\\OA.SERVICE.csproj",
+        "projectName": "OA.SERVICE",
+        "projectPath": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.SERVICE\\OA.SERVICE.csproj",
+        "packagesPath": "C:\\Users\\bd483\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.SERVICE\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bd483\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.DATA\\OA.DATA.csproj": {
+                "projectPath": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.DATA\\OA.DATA.csproj"
+              },
+              "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.REPO\\OA.REPO.csproj": {
+                "projectPath": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.REPO\\OA.REPO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.WEB\\OA.WEB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.WEB\\OA.WEB.csproj",
+        "projectName": "OA.WEB",
+        "projectPath": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.WEB\\OA.WEB.csproj",
+        "packagesPath": "C:\\Users\\bd483\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.WEB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bd483\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.REPO\\OA.REPO.csproj": {
+                "projectPath": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.REPO\\OA.REPO.csproj"
+              },
+              "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.SERVICE\\OA.SERVICE.csproj": {
+                "projectPath": "C:\\Users\\bd483\\OneDrive\\Desktop\\LAB2\\LAB2 - TEST PER CRUD\\CRUD_OA\\OA.SERVICE\\OA.SERVICE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
@@ -277,7 +329,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

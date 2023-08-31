@@ -13,3 +13,20 @@ C:\Users\PC\Desktop\Starlabs\Onion Architecture CRUD\CRUD_OA\Onion Architecture\
 C:\Users\PC\Desktop\Starlabs\Onion Architecture CRUD\CRUD_OA\Onion Architecture\OA.REPO\obj\Debug\net6.0\refint\OA.REPO.dll
 C:\Users\PC\Desktop\Starlabs\Onion Architecture CRUD\CRUD_OA\Onion Architecture\OA.REPO\obj\Debug\net6.0\OA.REPO.pdb
 C:\Users\PC\Desktop\Starlabs\Onion Architecture CRUD\CRUD_OA\Onion Architecture\OA.REPO\obj\Debug\net6.0\ref\OA.REPO.dll
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\bin\Debug\net6.0\OA.REPO.deps.json
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\bin\Debug\net6.0\OA.REPO.runtimeconfig.json
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\bin\Debug\net6.0\OA.REPO.dll
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\bin\Debug\net6.0\OA.REPO.pdb
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\bin\Debug\net6.0\OA.DATA.dll
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\bin\Debug\net6.0\OA.DATA.pdb
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\obj\Debug\net6.0\OA.REPO.csproj.AssemblyReference.cache
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\obj\Debug\net6.0\OA.REPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\obj\Debug\net6.0\OA.REPO.AssemblyInfoInputs.cache
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\obj\Debug\net6.0\OA.REPO.AssemblyInfo.cs
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\obj\Debug\net6.0\OA.REPO.csproj.CoreCompileInputs.cache
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\obj\Debug\net6.0\OA.REPO.csproj.CopyComplete
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\obj\Debug\net6.0\OA.REPO.dll
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\obj\Debug\net6.0\refint\OA.REPO.dll
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\obj\Debug\net6.0\OA.REPO.pdb
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\obj\Debug\net6.0\OA.REPO.genruntimeconfig.cache
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.REPO\obj\Debug\net6.0\ref\OA.REPO.dll

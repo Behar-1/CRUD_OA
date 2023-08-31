@@ -15,3 +15,22 @@ C:\Users\PC\Desktop\Starlabs\Onion Architecture CRUD\CRUD_OA\Onion Architecture\
 C:\Users\PC\Desktop\Starlabs\Onion Architecture CRUD\CRUD_OA\Onion Architecture\OA.SERVICE\obj\Debug\net6.0\refint\OA.SERVICE.dll
 C:\Users\PC\Desktop\Starlabs\Onion Architecture CRUD\CRUD_OA\Onion Architecture\OA.SERVICE\obj\Debug\net6.0\OA.SERVICE.pdb
 C:\Users\PC\Desktop\Starlabs\Onion Architecture CRUD\CRUD_OA\Onion Architecture\OA.SERVICE\obj\Debug\net6.0\ref\OA.SERVICE.dll
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\bin\Debug\net6.0\OA.SERVICE.deps.json
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\bin\Debug\net6.0\OA.SERVICE.runtimeconfig.json
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\bin\Debug\net6.0\OA.SERVICE.dll
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\bin\Debug\net6.0\OA.SERVICE.pdb
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\bin\Debug\net6.0\OA.DATA.dll
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\bin\Debug\net6.0\OA.REPO.dll
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\bin\Debug\net6.0\OA.DATA.pdb
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\bin\Debug\net6.0\OA.REPO.pdb
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\obj\Debug\net6.0\OA.SERVICE.csproj.AssemblyReference.cache
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\obj\Debug\net6.0\OA.SERVICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\obj\Debug\net6.0\OA.SERVICE.AssemblyInfoInputs.cache
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\obj\Debug\net6.0\OA.SERVICE.AssemblyInfo.cs
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\obj\Debug\net6.0\OA.SERVICE.csproj.CoreCompileInputs.cache
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\obj\Debug\net6.0\OA.SERVICE.csproj.CopyComplete
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\obj\Debug\net6.0\OA.SERVICE.dll
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\obj\Debug\net6.0\refint\OA.SERVICE.dll
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\obj\Debug\net6.0\OA.SERVICE.pdb
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\obj\Debug\net6.0\OA.SERVICE.genruntimeconfig.cache
+C:\Users\bd483\OneDrive\Desktop\LAB2\LAB2 - TEST PER CRUD\CRUD_OA\OA.SERVICE\obj\Debug\net6.0\ref\OA.SERVICE.dll
